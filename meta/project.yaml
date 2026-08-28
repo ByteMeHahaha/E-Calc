@@ -1,7 +1,7 @@
 project-meta:
   project-name: E-Calc
   date-started: 2026-03-16
-  last-updated: 2026-03-19 # TODO -> update
+  last-updated: 2026-08-28
   languages:
     - Extended Backus-Naur Form (ISO standard)
   status: Deprecated
