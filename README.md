@@ -4,15 +4,19 @@ An ISO Extended Backus-Naur Form (EBNF) specification for calculations and
 assignment expressions.
 
 - Author: Ethan Kletschke
-- Version: `0.0.6`
+- Version: `1.0.0`
 - Developed on: Ubuntu (WSL2)
 - License: MIT
 
-## Current Definitions
+## This Repository is Archived!
 
-E-Calc currently defines:
+No more updates will be made to E-Calc as of 2026-08-28.
 
-- The alphabet from A-Z (uppercase and lowercase)
+## Definitions
+
+E-Calc defines:
+
+- The entire English alphabet from A-Z (uppercase and lowercase)
 - The digits 0-9
 - Signs (`+` and `-`)
 - Integers with optional signs
@@ -22,7 +26,7 @@ E-Calc currently defines:
 
 ## Limitations
 
-E-calc is intentionally incredibly simple. As such:
+E-calc is intentionally simple. As such:
 
-- E-Calc has no parentheses or BODMAS precedence (yet)
+- E-Calc has no parentheses or BODMAS precedence
 - E-calc is not a full language spec
